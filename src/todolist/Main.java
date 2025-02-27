@@ -1,5 +1,7 @@
 package todolist;
 
+// main program that runs. It will ask you to pick an option from 1-5 and then so on.
+
 import java.util.Scanner;
 
 public class Main {
